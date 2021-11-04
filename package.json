@@ -1,0 +1,23 @@
+{
+  "name": "cs3219-taskd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candyhy/cs3219-TaskD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candyhy/cs3219-TaskD/issues"
+  },
+  "homepage": "https://github.com/candyhy/cs3219-TaskD#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
